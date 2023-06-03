@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+#animal-photos {
+  text-align: center;
+  padding: 20px;
+}
+
+#photo-heading {
+  color: #333;
+}
+
+.photo {
+  display: inline-block;
+  margin: 10px;
+}
+
+.photo img {
+  width: 150px;
+  height: 150px;
+}
